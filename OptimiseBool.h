@@ -1,4 +1,4 @@
-    #ifndef __OPTIMISEBOOL__H__
+#ifndef __OPTIMISEBOOL__H__
     #define __OPTIMISEBOOL__H__
 
     /**
